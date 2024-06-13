@@ -1,4 +1,7 @@
 # Resource-Mgt
+
+![ba499178-9a56-496c-8513-539dfcc2824d](https://github.com/aryan-1203/Resource-Mgt/assets/162081174/c8fb157b-216f-4a4d-8d55-47b4e6c41471)
+
 ## Introduction
 ### Purpose:
 * Designed to manage existing resources, features, and tasks for each employee and their corresponding teams.
